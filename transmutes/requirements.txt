@@ -1,0 +1,32 @@
+# Core Dependencies
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-core==0.1.10
+
+# LLM & Embeddings
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+huggingface-hub==0.20.2
+
+# Vector Store
+chromadb==0.4.22
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Web Interface
+streamlit==1.29.0
+streamlit-chat==0.1.1
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+tqdm==4.66.1
+
+# Optional: For PDF support
+pypdf==3.17.4
+
+
+
